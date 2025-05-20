@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+gdown
+openai
+PyPDF2
+ollama
+pydub # For audio manipulation
+Flask
+gTTS
+markdown2 # For converting Markdown to HTML 
